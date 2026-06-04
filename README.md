@@ -20,13 +20,6 @@ A lightweight, performance-optimized, and clean child theme built for the **BBH-
 - **Performance First:** Inherits the lightweight, high-speed architecture of BBH-Lite.
 - **Developer-Friendly:** Ready-to-use boilerplate structured specifically for the BBH-Lite ecosystem.
 
-This looks excellent! It is clear, professional, and provides options for both terminal users and everyday WordPress users who prefer the dashboard upload method.
-
-I just noticed two minor formatting bugs in your Markdown that you will want to clean up before pasting it into GitHub:
-
-1. **The Git Clone URL:** Inside the `git clone` command, you accidentally wrapped the URL in Markdown link brackets `[...]`. GitHub will render that literally inside the code block, which will break the command if someone copies and pastes it.
-2. **Indentation in Code Blocks:** There are extra spaces before `cd` and `git clone` inside the code block that might look a bit skewed on GitHub.
-
 ## 🛠️ Installation
 
 1. **Prerequisites:** 
