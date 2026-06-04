@@ -58,7 +58,8 @@ bbh-lite-child/
 
 This project is licensed under the GNU General Public License v2 or later. See the [LICENSE](http://www.gnu.org/licenses/gpl-2.0.html) file for details.
 
-**💻 Built with by** [Jahid Shah](https://jahidshah.com/about/)
+**💻 Develop by**: [Jahid Shah](https://jahidshah.com/about/)
+
 ---
 
 ## Support Open Source
