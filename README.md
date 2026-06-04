@@ -29,7 +29,7 @@ A lightweight, performance-optimized, and clean child theme built for the **BBH-
    Clone this repository directly into your themes folder:
 ```bash
    cd /path-to-your-wordpress/wp-content/themes/
-   git clone [https://github.com/businessbridgehub/bbh-lite-child.git](https://github.com/businessbridgehub/bbh-lite-child.git) bbh-lite-child
+   git clone https://github.com/businessbridgehub/bbh-lite-child.git
 
 ```
 
@@ -58,11 +58,8 @@ bbh-lite-child/
 
 This project is licensed under the GNU General Public License v2 or later. See the [LICENSE](http://www.gnu.org/licenses/gpl-2.0.html) file for details.
 
+**💻 Built with by** [Jahid Shah](https://jahidshah.com/about/)
 ---
-
-Built with 💻 by [Jahid Shah](https://jahidshah.com/about/)
-
-```
 
 ## Support Open Source
 
