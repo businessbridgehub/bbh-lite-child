@@ -20,6 +20,17 @@ A lightweight, performance-optimized, and clean child theme built for the **BBH-
 - **Performance First:** Inherits the lightweight, high-speed architecture of BBH-Lite.
 - **Developer-Friendly:** Ready-to-use boilerplate structured specifically for the BBH-Lite ecosystem.
 
+## 📥 Download Versions
+
+Select a version below to download the theme zip file. 
+
+| Version | Status | Download Link |
+| :--- | :--- | :--- |
+| **v1.0.5** | 🟢 Latest Release | [![Download v1.0.5](https://img.shields.io/badge/Download-v1.0.5-blue?style=for-the-badge&logo=github)](https://github.com/businessbridgehub/bbh-lite-child/releases/download/v1.0.5/bbh-lite-child.zip) |
+| **v1.0.5** | 🟡 Stable | [![Download v1.0.1](https://img.shields.io/badge/Download-v1.0.5-gray?style=for-the-badge)](https://github.com/businessbridgehub/bbh-lite-child/releases/download/v1.0.5/bbh-lite-child.zip) |
+| **v1.0.4** | 📦 Initial Release | [![Download v1.0.4](https://img.shields.io/badge/Download-v1.0.4-gray?style=for-the-badge)](https://github.com/businessbridgehub/bbh-lite-child/releases/download/v1.0.4/bbh-lite-child.zip) |
+
+
 ## 🛠️ Installation
 
 1. **Prerequisites:** 
